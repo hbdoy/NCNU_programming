@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\StackAndQueue\StackAndQueue\obj\x86\Debug\StackAndQueue.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\StackAndQueue\StackAndQueue\obj\x86\Debug\StackAndQueue.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\StackAndQueue\StackAndQueue\obj\x86\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+C:\Users\Viking\Desktop\StackAndQueue\StackAndQueue\obj\x86\Debug\StackAndQueue.exe
+C:\Users\Viking\Desktop\StackAndQueue\StackAndQueue\obj\x86\Debug\StackAndQueue.pdb
+C:\Users\Viking\Desktop\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\Viking\Desktop\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\Viking\Desktop\StackAndQueue\StackAndQueue\obj\x86\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+F:\2016_2017課程\資料結構\程式碼\Struct2Stack\StackAndQueue\obj\x86\Debug\StackAndQueue.exe
+F:\2016_2017課程\資料結構\程式碼\Struct2Stack\StackAndQueue\obj\x86\Debug\StackAndQueue.pdb
+C:\Users\user\Desktop\Struct2Stack\StackAndQueue\obj\x86\Debug\StackAndQueue.exe
+C:\Users\user\Desktop\Struct2Stack\StackAndQueue\obj\x86\Debug\StackAndQueue.pdb

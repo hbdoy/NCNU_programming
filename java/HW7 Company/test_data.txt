@@ -1,0 +1,13 @@
+normal Sam male 50000
+normal µ¤¾Ë male 50000
+first ¦Ñ¤ý female 50000
+overtime µ¤¾Ë 20.5
+second ³¾«Ë male 50000
+overtime ³¾«Ë 3
+overtime Sam 9
+print
+
+Sam male 52812.5 hours: 9.0
+µ¤¾Ë male 56406.25 hours: 20.5
+¦Ñ¤ý female 58800.0 hours: 0.0
+³¾«Ë male 55737.5 hours: 3.0

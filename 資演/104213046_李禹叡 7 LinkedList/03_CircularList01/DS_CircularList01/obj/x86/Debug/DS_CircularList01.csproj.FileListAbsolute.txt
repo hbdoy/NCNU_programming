@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_CircularList01\DS_CircularList01\bin\Debug\DS_CircularList01.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_CircularList01\DS_CircularList01\bin\Debug\DS_CircularList01.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.csprojResolveAssemblyReference.cache
+G:\2016_2017課程\資料結構\1207_2016\影片\DS_Chap04_Topic06_CircularLinkedList_01\source code\DS_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.exe
+G:\2016_2017課程\資料結構\1207_2016\影片\DS_Chap04_Topic06_CircularLinkedList_01\source code\DS_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.pdb
+G:\2016_2017課程\資料結構\1207_2016\03_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.exe
+G:\2016_2017課程\資料結構\1207_2016\03_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.pdb
+G:\2016_2017課程\資料結構\1207_2016\03_CircularList01\DS_CircularList01\bin\Debug\DS_CircularList01.exe
+G:\2016_2017課程\資料結構\1207_2016\03_CircularList01\DS_CircularList01\bin\Debug\DS_CircularList01.pdb
+G:\2016_2017課程\資料結構\1207_2016\03_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\03_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.exe
+C:\Users\user\Desktop\03_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.pdb
+C:\Users\user\Desktop\03_CircularList01\DS_CircularList01\bin\Debug\DS_CircularList01.exe
+C:\Users\user\Desktop\03_CircularList01\DS_CircularList01\bin\Debug\DS_CircularList01.pdb
+C:\Users\user\Desktop\03_CircularList01\DS_CircularList01\obj\x86\Debug\DS_CircularList01.csprojResolveAssemblyReference.cache
